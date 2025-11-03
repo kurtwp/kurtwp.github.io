@@ -1,17 +1,17 @@
 # kurtwp.github.io
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Desicription
 - Link
 
-###Project 2
+### Project 2
 - Desicription
 - Link
 
-#Education
+# Education
 - Summary
 
-#Work History
+# Work History
 - Workplace One
 - Workplace Two
