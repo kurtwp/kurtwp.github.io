@@ -7,6 +7,7 @@
 
 ### Project 2
 - Desicription
+### Small Image
 - ![Brigg](docs/assets/briggnisr.jpg)
 
 # Education
