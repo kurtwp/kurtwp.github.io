@@ -4,4 +4,4 @@ description: My site that will provide the home lab projects I am workingon.
 #show_downloads: true
 #google_analytics:
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-architect
+theme: jekyll-theme-primer
