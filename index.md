@@ -7,7 +7,7 @@
 
 ### Project 2
 - Desicription
-- Link
+- [Default](_layouts/default.html)
 
 # Education
 - Summary
