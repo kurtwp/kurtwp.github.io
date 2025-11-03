@@ -7,7 +7,7 @@
 
 ### Project 2
 - Desicription
-- Link
+- ![Brigg](docs/assets/briggnisr.jpg)
 
 # Education
 - Summary
