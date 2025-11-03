@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - YourTube
-- [YouTube] (https://www.youtube.com/c/kurtpasewaldt)
+- [YouTube](https://www.youtube.com/c/kurtpasewaldt)
 
 ### Project 2
 - Desicription
