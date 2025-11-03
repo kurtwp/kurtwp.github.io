@@ -16,5 +16,6 @@ github:
     path: "/"
   repository_url: "https://github.com/pages-themes/primer"
   
-title: Jekyll Theme Primer
-description: Primer is a Jekyll theme for GitHub Pages
+title: Kurt W. Pasewaldt
+description: My site that will provide the home lab projects I am working on.
+logo: docs/assets/briggnisr.jpg
