@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[back](https://kurtwp.github.io/index.html)
+[back](./index.md)
